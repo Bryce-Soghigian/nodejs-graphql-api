@@ -4,6 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
+    "server": "nodemon src/index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -18,6 +19,7 @@
   },
   "homepage": "https://github.com/Bryce-Soghigian/nodejs-graphql-api#readme",
   "dependencies": {
-    "apollo-server": "^2.21.1"
+    "apollo-server": "^2.21.1",
+    "graphql": "^15.5.0"
   }
 }
