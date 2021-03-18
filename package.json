@@ -20,6 +20,8 @@
   "homepage": "https://github.com/Bryce-Soghigian/nodejs-graphql-api#readme",
   "dependencies": {
     "apollo-server": "^2.21.1",
-    "graphql": "^15.5.0"
+    "fs": "0.0.1-security",
+    "graphql": "^15.5.0",
+    "path": "^0.12.7"
   }
 }
